@@ -1,0 +1,27 @@
+.redlight {
+	position: relative;
+	width: 2em; height: 2em;
+	border-radius: 50%;
+	background: red;
+}
+
+.yellowlight {
+  position: relative;
+  width: 2em; height: 2em;
+  border-radius: 50%;
+  background: yellow;
+}
+
+.greenlight {
+  position: relative;
+  width: 2em; height: 2em;
+  border-radius: 50%;
+  background: green;
+}
+
+.blacklight {
+  position: relative;
+  width: 2em; height: 2em;
+  border-radius: 50%;
+  background: black;
+}
